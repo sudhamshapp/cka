@@ -9,3 +9,6 @@ apt-get upgrade -y kubelet=1.12.0-00
 kubeadm upgrade node config --kubelet-version v1.12.0
 systemctl restrt kubelet
 kubectl uncordon <nodename>
+
+
+https://v1-31.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/ - this documentaion give us better insight

@@ -11,4 +11,4 @@ systemctl restart kubelet
 kubectl uncordon <nodename>
 
 
-https://v1-31.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/ - this documentaion give us better insight
+https://v1-31.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/ - this documentaion give us better insights

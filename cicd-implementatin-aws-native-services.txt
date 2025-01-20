@@ -1,1 +1,5 @@
 code commit - it's deprecated
+
+elastic beanstalk is the alternative to codedeploy to do the deployment
+
+codepipeline - we can orchestrate everything through 
